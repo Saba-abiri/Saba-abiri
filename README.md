@@ -5,7 +5,7 @@ i! I'm [Saba-abiri](https://github.com/Saba-abiri), an Embedded Systems Engineer
   I love **signal processing, embedded software, and RF communication**.
 
   
-<img width="35%" style="float:right; margin-right;" src="https://github.com/user-attachments/assets/eebe660a-62c2-4c8e-bd48-4c8c63f24372" />
+<img width="20%" style="float:right; margin-right: 20px;" src="https://github.com/user-attachments/assets/eebe660a-62c2-4c8e-bd48-4c8c63f24372" />
 
 ---
 
