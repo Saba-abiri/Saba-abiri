@@ -1,10 +1,9 @@
 # 🚀 Welcome to Saba-abiri GitHub Profile! 
-<p>
+
   Hi! I'm [Saba-abiri](https://github.com/Saba-abiri), an Embedded Systems Engineer & Tech Enthusiast.  
   I work on **STM32, RF modules (SI4432, ADF7021), MATLAB, and BPSK modulation**.  
   I love **signal processing, embedded software, and RF communication**.
-  <img width="20%" style="float:right; margin-right: 20px;" src="https://github.com/user-attachments/assets/eebe660a-62c2-4c8e-bd48-4c8c63f24372" />
-</p>
+<img width="20%" style="float:right; margin-right: 20px;" src="https://github.com/user-attachments/assets/eebe660a-62c2-4c8e-bd48-4c8c63f24372" />
 
 ---
 
