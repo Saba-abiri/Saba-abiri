@@ -27,7 +27,16 @@ I love **signal processing, embedded software, and RF communication**.
 ---
 
 ### 📊 **GitHub Stats**
-![Saba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saba-abiri&show_icons=true&theme=radical)
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saba-abiri&bg_color=090812&color=a4199b&line=4c569e&point=2a2e8d&area=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/Saba-abiri">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saba-abiri&show_icons=true&theme=radical" />
+  </a>
+</p>
+
 
 ### 🎵 **Fun Project: Musical Motorcycle Horn**
 - 🔊 Designing a horn that plays music when pressed!  
