@@ -59,3 +59,24 @@ i! I'm [Saba-abiri](https://github.com/Saba-abiri), an Embedded Systems Engineer
 
 🚀 _Let's build something amazing!_
 
+---
+* ⚡ Fun fact: Enhance life and Make Money ！ 
+
+* 🌊 2024 Goals: Work better and Learn more about Open Source projects <br><br>
+
+* ☕ Interest: Dogs, Coffee, and Coding. <br><br>
+
+* :octocat: Hobbies: Sleeping, Coding, Table tennis. <br><br>
+
+<h2></h2><br>
+
+<p align="center"> 
+  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
+</p>
+
+<div align="center">
+  <h2> <strong> Actively Learning </strong></h2>
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,linux,redis,mysql,docker" alt="skills actively learning logos"> <br> 
+  <h2> <strong> Plan to Learn </strong></h2>
+  <img src="https://skillicons.dev/icons?i=cpp,redis,mysql,linux,docker" alt="skills planning to learn logos">
+</div>
