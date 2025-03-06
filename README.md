@@ -1,6 +1,6 @@
 # 🚀 Welcome to Saba-abiri GitHub Profile! 
 <p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/eebe660a-62c2-4c8e-bd48-4c8c63f24372" />
+  <img width="20%" src="https://github.com/user-attachments/assets/eebe660a-62c2-4c8e-bd48-4c8c63f24372" />
 </p>
 
 Hi! I'm [Saba-abiri](https://github.com/Saba-abiri)
