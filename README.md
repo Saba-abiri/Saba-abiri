@@ -28,7 +28,12 @@ I love **signal processing, embedded software, and RF communication**.
 
 ### 📊 **GitHub Stats**
 
-![Saba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saba-abiri&show_icons=true&theme=radical)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saba-abiri&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github.com/user-attachments/assets/2ca33a59-b57c-47db-86fe-db6a6161b19b" />
+</p>
+
+
 
 
 
