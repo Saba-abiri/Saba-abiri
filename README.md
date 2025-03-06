@@ -14,6 +14,13 @@ I love **signal processing, embedded software, and RF communication**.
 - 📽️ [YouTube Channel](your-youtube-link) - Embedded Engineering Content!
 
 ---
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArmandynCoder&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+<!--![Armandyn GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandynCoder&show_icons=true&theme=violet)-->
+
+</div>
+---
 
 ### 📊 **GitHub Stats**
 ![Saba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saba-abiri&show_icons=true&theme=radical)
