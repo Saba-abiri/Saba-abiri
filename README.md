@@ -14,12 +14,12 @@ I love **signal processing, embedded software, and RF communication**.
 - 📽️ [YouTube Channel](your-youtube-link) - Embedded Engineering Content!
 
 ---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArmandynCoder&bg_color=090812&color=a4199b&line=4c569e&point=2a2e8d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--![Snake animation](https://github.com/ArmandynCoder/ArmandynCoder/blob/output/github-contribution-grid-snake.svg)-->
+<br>
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArmandynCoder&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
-<!--![Armandyn GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandynCoder&show_icons=true&theme=violet)-->
-
-</div>
+<br>
 ---
 
 ### 📊 **GitHub Stats**
