@@ -71,7 +71,7 @@ i! I'm [Saba-abiri](https://github.com/Saba-abiri), an Embedded Systems Engineer
 <h2></h2><br>
 
 <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/440798fc-1b70-4c34-a6bf-a5a10066d4e7" alt="Lofi Nightlight scene" /> 
+  <img width="10%" src="https://github.com/user-attachments/assets/440798fc-1b70-4c34-a6bf-a5a10066d4e7" alt="Lofi Nightlight scene" /> 
 </p>
 
 <div align="center">
