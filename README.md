@@ -20,6 +20,14 @@ I love **signal processing, embedded software, and RF communication**.
 ![Snake animation](https://github.com/Saba-abiri/Saba-abiri/blob/output/github-contribution-grid-snake.svg)
 
 ---
+<p align="center"><b>Visitors Count</b></p> 
+  
+<p align="center">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FSaba-abiri&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
+</p> 
+<br>
+
+---
 
 ### 📊 **GitHub Stats**
 ![Saba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saba-abiri&show_icons=true&theme=radical)
