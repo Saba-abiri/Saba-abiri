@@ -14,7 +14,7 @@ i! I'm [Saba-abiri](https://github.com/Saba-abiri), an Embedded Systems Engineer
 - 🎯 Embedded Systems & Firmware Development
 - 📡 Wireless Communication (RF, Modulation, Signal Processing)
 - 🧠 Brain-Machine Interfaces (EEG/EMG, CFC Analysis)
-- 📽️ [YouTube Channel](your-youtube-link) - Embedded Engineering Content!
+- 📽️ [YouTube Channel](your-youtube-link) - Embedded Engineering Content!!
  <p align="right">
 <img width="20%" style="float:right; margin-right: 20px;" src="https://github.com/user-attachments/assets/440798fc-1b70-4c34-a6bf-a5a10066d4e7" />
  </p>
