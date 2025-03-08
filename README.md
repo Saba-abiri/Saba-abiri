@@ -28,7 +28,7 @@ i! I'm [Saba-abiri](https://github.com/Saba-abiri), an Embedded Systems Engineer
 <p align="center">
   <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FSaba-abiri&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
 </p> 
-<br>
+
  <p align="center">
 <img width="15%" style="float:right; margin-right: 20px;" src="https://github.com/user-attachments/assets/96306bcb-8a4c-44cc-a4ea-72c28ec6a22f" />
  </p>
